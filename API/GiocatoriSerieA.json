@@ -1,0 +1,3304 @@
+[
+ {
+  "Ruolo": "P",
+  "Nome": "Marius",
+  "Cognome": "ADAMONIS",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Emil",
+  "Cognome": "AUDERO",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Nicola",
+  "Cognome": "BAGNOLINI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Francesco",
+  "Cognome": "BARDI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Alessandro",
+  "Cognome": "BERARDI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Etrit",
+  "Cognome": "BERISHA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Marco",
+  "Cognome": "BLEVE",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Pietro",
+  "Cognome": "BOER",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Federico",
+  "Cognome": "BRANCOLINI",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Marco",
+  "Cognome": "CARNESECCHI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Michele",
+  "Cognome": "CEROFOLINI",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Dorian",
+  "Cognome": "CIEZKOWSKI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Andrea",
+  "Cognome": "CONSIGLI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Alex",
+  "Cognome": "CORDAZ",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Alessio",
+  "Cognome": "CRAGNO",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "GREGORIO Michele",
+  "Cognome": "DI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Bartolomiej",
+  "Cognome": "DRAGOWSKI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Wladimiro",
+  "Cognome": "FALCONE",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Vincenzo",
+  "Cognome": "FIORILLO",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Luca",
+  "Cognome": "GEMELLO",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Pierluigi",
+  "Cognome": "GOLLINI",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Samir",
+  "Cognome": "HANDANOVIC",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Eugenio",
+  "Cognome": "LAMANNA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Mike",
+  "Cognome": "MAIGNAN",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Federico",
+  "Cognome": "MARCHETTI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Davide",
+  "Cognome": "MARFELLA",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Luis",
+  "Cognome": "MAXIMIANO",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Alex",
+  "Cognome": "MERET",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Vanja",
+  "Cognome": "MILINKOVIC",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Antonio",
+  "Cognome": "MIRANTE",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Lorenzo",
+  "Cognome": "MONTIPO'",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Juan",
+  "Cognome": "MUSSO",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Guillermo",
+  "Cognome": "OCHOA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Andre'",
+  "Cognome": "ONANA",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Daniele",
+  "Cognome": "PADELLI",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Gianluca",
+  "Cognome": "PEGOLO",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Simone",
+  "Cognome": "PERILLI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Mattia",
+  "Cognome": "PERIN",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Samuele",
+  "Cognome": "PERISAN",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Edoardo",
+  "Cognome": "PIANA",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Carlo",
+  "Cognome": "PINSOGLIO",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Ivan",
+  "Cognome": "PROVEDEL",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Federico",
+  "Cognome": "RAVAGLIA",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Nicola",
+  "Cognome": "RAVAGLIA",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Francesco",
+  "Cognome": "ROSSI",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "PATRICIO",
+  "Cognome": "RUI",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Alessandro",
+  "Cognome": "RUSSO",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Gianluca",
+  "Cognome": "SARO",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Mouhamadou",
+  "Cognome": "SARR",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Luigi",
+  "Cognome": "SEPE",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Marco",
+  "Cognome": "SILVESTRI",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Salvatore",
+  "Cognome": "SIRIGU",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Lukasz",
+  "Cognome": "SKORUPSKI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Stefano",
+  "Cognome": "SORRENTINO",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Marco",
+  "Cognome": "SPORTIELLO",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Mile",
+  "Cognome": "SVILAR",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Wojciech",
+  "Cognome": "SZCZESNY",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Ciprian",
+  "Cognome": "TATARUSANU",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Pietro",
+  "Cognome": "TERRACCIANO",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Martin",
+  "Cognome": "TURK",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Samir",
+  "Cognome": "UJKANI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Devis",
+  "Cognome": "VASQUEZ",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Guglielmo",
+  "Cognome": "VICARIO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Jeroen",
+  "Cognome": "ZOET",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "P",
+  "Nome": "Petar",
+  "Cognome": "ZOVKO",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Francesco",
+  "Cognome": "ACERBI",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Ola",
+  "Cognome": "AINA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Emanuel",
+  "Cognome": "AIWU",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "SANDRO",
+  "Cognome": "ALEX",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Wisdom",
+  "Cognome": "AMEY",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Kelvin",
+  "Cognome": "AMIAN",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Bruno",
+  "Cognome": "AMIONE",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Ethan",
+  "Cognome": "AMPADU",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Valentin",
+  "Cognome": "ANTOV",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Tommaso",
+  "Cognome": "AUGELLO",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "TOURE",
+  "Cognome": "BALLO",
+  "Squadra": "Milan",
+  "Column6": "Fode"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Federico",
+  "Cognome": "BASCHIROTTO",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessandro",
+  "Cognome": "BASTONI",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Simone",
+  "Cognome": "BASTONI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Brian",
+  "Cognome": "BAYEYE",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Raoul",
+  "Cognome": "BELLANOVA",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Bartosz",
+  "Cognome": "BERESZYNSKI",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Matteo",
+  "Cognome": "BIANCHETTI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Jaka",
+  "Cognome": "BIJOL",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Cristiano",
+  "Cognome": "BIRAGHI",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Samuele",
+  "Cognome": "BIRINDELLI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Kevin",
+  "Cognome": "BONIFAZI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Leonardo",
+  "Cognome": "BONUCCI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Domagoj",
+  "Cognome": "BRADARIC",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Gleison",
+  "Cognome": "BREMER",
+  "Squadra": "Juventus",
+  "Column6": "Silva",
+  "Column7": "Nascimento"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Dylan",
+  "Cognome": "BRONN",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessandro",
+  "Cognome": "BUONGIORNO",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Leonardo",
+  "Cognome": "BUTA",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Juan",
+  "Cognome": "CABAL",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Liberato",
+  "Cognome": "CACACE",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Davide",
+  "Cognome": "CALABRIA",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mattia",
+  "Cognome": "CALDARA",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Luca",
+  "Cognome": "CALDIROLA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "OKOLI",
+  "Cognome": "CALEB",
+  "Squadra": "Atalanta",
+  "Column6": "Okoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Andrea",
+  "Cognome": "CAMBIASO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Franco",
+  "Cognome": "CARBONI",
+  "Squadra": "Monza",
+  "Column6": "Ezequiel"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "AUGUSTO",
+  "Cognome": "CARLOS",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Nicolo'",
+  "Cognome": "CASALE",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Tommaso",
+  "Cognome": "CASSANDRO",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Pietro",
+  "Cognome": "CECCARONI",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Federico",
+  "Cognome": "CECCHERINI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Zeki",
+  "Cognome": "CELIK",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Vlad",
+  "Cognome": "CHIRICHES",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Andrea",
+  "Cognome": "CONTI",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Diego",
+  "Cognome": "COPPOLA",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Gabriele",
+  "Cognome": "CORBO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Juan",
+  "Cognome": "CUADRADO",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Henrique",
+  "Cognome": "DALBERT",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Danilo",
+  "Cognome": "D'AMBROSIO",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Flavius",
+  "Cognome": "DANILIUC",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "",
+  "Cognome": "DANILO",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Matteo",
+  "Cognome": "DARMIAN",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Pawel",
+  "Cognome": "DAWIDOWICZ",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "SCIGLIO",
+  "Cognome": "DE",
+  "Squadra": "Juventus",
+  "Column6": "Mattia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "SILVESTRI",
+  "Cognome": "DE",
+  "Squadra": "Bologna",
+  "Column6": "Lorenzo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "VRIJ",
+  "Cognome": "DE",
+  "Squadra": "Inter",
+  "Column6": "Stefan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "WINTER",
+  "Cognome": "DE",
+  "Squadra": "Empoli",
+  "Column6": "Koni"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Merih",
+  "Cognome": "DEMIRAL",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Fabio",
+  "Cognome": "DEPAOLI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Kastriot",
+  "Cognome": "DERMAKU",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Sergino",
+  "Cognome": "DEST",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "LORENZO",
+  "Cognome": "DI",
+  "Squadra": "Napoli",
+  "Column6": "Giovanni"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Federico",
+  "Cognome": "DIMARCO",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Koffi",
+  "Cognome": "DJIDJI",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Berat",
+  "Cognome": "DJIMSITI",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Cognome": "DODO'",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Josh",
+  "Cognome": "DOIG",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Giulio",
+  "Cognome": "DONATI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Denzel",
+  "Cognome": "DUMFRIES",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Festy",
+  "Cognome": "EBOSELE",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Enzo",
+  "Cognome": "EBOSSE",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Tyronne",
+  "Cognome": "EBUEHI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Kingsley",
+  "Cognome": "EHIZIBUE",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Martin",
+  "Cognome": "ERLIC",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Davide",
+  "Cognome": "FARAONI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mohamed",
+  "Cognome": "FARES",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Federico",
+  "Cognome": "FAZIO",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alex",
+  "Cognome": "FERRARI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Gianmarco",
+  "Cognome": "FERRARI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Salvador",
+  "Cognome": "FERRER",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessandro",
+  "Cognome": "FLORENZI",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Matteo",
+  "Cognome": "GABBIA",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Antonino",
+  "Cognome": "GALLO",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Federico",
+  "Cognome": "GATTI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Valentin",
+  "Cognome": "GENDREY",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Paolo",
+  "Cognome": "GHIGLIONE",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mario",
+  "Cognome": "GILA",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Robin",
+  "Cognome": "GOSENS",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Andrew",
+  "Cognome": "GRAVILLON",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Koray",
+  "Cognome": "GUNTER",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Norbert",
+  "Cognome": "GYOMBER",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Hans",
+  "Cognome": "HATEBOER",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Theo",
+  "Cognome": "HERNANDEZ",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Isak",
+  "Cognome": "HIEN",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Emil",
+  "Cognome": "HOLM",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Elseid",
+  "Cognome": "HYSAJ",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Cognome": "IBANEZ",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "JULIO",
+  "Cognome": "IGOR",
+  "Squadra": "Fiorentina",
+  "Column6": "dos",
+  "Column7": "Santos",
+  "Column8": "de",
+  "Column9": "Paulo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Ardian",
+  "Cognome": "ISMAJLI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Armando",
+  "Cognome": "IZZO",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "JESUS",
+  "Cognome": "JUAN",
+  "Squadra": "Napoli",
+  "Column6": "Guilherme",
+  "Column7": "Nunes"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Pierre",
+  "Cognome": "KALULU",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Rick",
+  "Cognome": "KARSDORP",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Min-Jae",
+  "Cognome": "KIM",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Simon",
+  "Cognome": "KJAER",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Marash",
+  "Cognome": "KUMBULLA",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Georgios",
+  "Cognome": "KYRIAKOPOULOS",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Valentino",
+  "Cognome": "LAZARO",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Manuel",
+  "Cognome": "LAZZARI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Diego",
+  "Cognome": "LLORENTE",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Luka",
+  "Cognome": "LOCHOSHVILI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Matteo",
+  "Cognome": "LOVATO",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Jhon",
+  "Cognome": "LUCUMI'",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Sebastiano",
+  "Cognome": "LUPERTO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Charalampos",
+  "Cognome": "LYKOGIANNIS",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Joakim",
+  "Cognome": "MAEHLE",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Giangiacomo",
+  "Cognome": "MAGNANI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Gianluca",
+  "Cognome": "MANCINI",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Riccardo",
+  "Cognome": "MARCHIZZA",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Pablo",
+  "Cognome": "MARI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "RUI",
+  "Cognome": "MARIO",
+  "Squadra": "Napoli",
+  "Column6": "Silva",
+  "Column7": "Duarte"
+ },
+ {
+  "Ruolo": "D",
+  "Cognome": "MARLON",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Luca",
+  "Cognome": "MARRONE",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "QUARTA",
+  "Cognome": "MARTINEZ",
+  "Squadra": "Fiorentina",
+  "Column6": "Lucas"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Adam",
+  "Cognome": "MARUSIC",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Adam",
+  "Cognome": "MASINA",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Pasquale",
+  "Cognome": "MAZZOCCHI",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Gary",
+  "Cognome": "MEDEL",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Nikola",
+  "Cognome": "MILENKOVIC",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Joao",
+  "Cognome": "MOUTINHO",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mert",
+  "Cognome": "MULDUR",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Jeison",
+  "Cognome": "MURILLO",
+  "Squadra": "Sampdoria",
+  "Column6": "Fabian"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Nicola",
+  "Cognome": "MURRU",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Dimitris",
+  "Cognome": "NIKOLAOU",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Bram",
+  "Cognome": "NUYTINCK",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Marios",
+  "Cognome": "OIKONOMOU",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mathias",
+  "Cognome": "OLIVERA",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Leo",
+  "Cognome": "OSTIGARD",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Jose'",
+  "Cognome": "PALOMINO",
+  "Squadra": "Atalanta",
+  "Column6": "Luis"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Fabiano",
+  "Cognome": "PARISI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Cognome": "PATRIC",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Luca",
+  "Cognome": "PELLEGRINI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Nehuen",
+  "Cognome": "PEREZ",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Giuseppe",
+  "Cognome": "PEZZELLA",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Lorenzo",
+  "Cognome": "PIROLA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Marin",
+  "Cognome": "PONGRACIC",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Stefan",
+  "Cognome": "POSCH",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Giacomo",
+  "Cognome": "QUAGLIATA",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Stefan",
+  "Cognome": "RADU",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Luca",
+  "Cognome": "RANIERI",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Arkadiusz",
+  "Cognome": "RECA",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "BECAO",
+  "Cognome": "RODRIGO",
+  "Squadra": "Udinese",
+  "Column6": "Nascimiento",
+  "Column7": "Franca"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Ricardo",
+  "Cognome": "RODRIGUEZ",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Oliveira",
+  "Cognome": "ROGERIO",
+  "Squadra": "Sassuolo",
+  "Column6": "da",
+  "Column7": "silva"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Filippo",
+  "Cognome": "ROMAGNA",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessio",
+  "Cognome": "ROMAGNOLI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Simone",
+  "Cognome": "ROMAGNOLI",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Amir",
+  "Cognome": "RRAHMANI",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Tressoldi",
+  "Cognome": "RUAN",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Daniele",
+  "Cognome": "RUGANI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Matteo",
+  "Cognome": "RUGGERI",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Junior",
+  "Cognome": "SAMBIA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Giorgio",
+  "Cognome": "SCALVINI",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Perr",
+  "Cognome": "SCHUURS",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Leonardo",
+  "Cognome": "SERNICOLA",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Wilfried",
+  "Cognome": "SINGO",
+  "Squadra": "Torino",
+  "Column6": "Stephane"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Milan",
+  "Cognome": "SKRINIAR",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Chris",
+  "Cognome": "SMALLING",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Brandon",
+  "Cognome": "SOPPY",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Joaquin",
+  "Cognome": "SOSA",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Adama",
+  "Cognome": "SOUMAORO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Leonardo",
+  "Cognome": "SPINAZZOLA",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Petar",
+  "Cognome": "STOJANOVIC",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Aleksa",
+  "Cognome": "TERZIC",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Malick",
+  "Cognome": "THIAW",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Jeremy",
+  "Cognome": "TOLJAN",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Rafael",
+  "Cognome": "TOLOI",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Fikayo",
+  "Cognome": "TOMORI",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Lorenzo",
+  "Cognome": "TONELLI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "William",
+  "Cognome": "TROOST-EKONG",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessandro",
+  "Cognome": "TUIA",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Destiny",
+  "Cognome": "UDOGIE",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Samuel",
+  "Cognome": "UMTITI",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Emanuele",
+  "Cognome": "VALERI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Johan",
+  "Cognome": "VASQUEZ",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Lorenzo",
+  "Cognome": "VENUTI",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Mergim",
+  "Cognome": "VOJVODA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Sebastian",
+  "Cognome": "WALUKIEWICZ",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Przemyslaw",
+  "Cognome": "WISNIEWSKI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Alessandro",
+  "Cognome": "ZANOLI",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Davide",
+  "Cognome": "ZAPPACOSTA",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Deyovaisio",
+  "Cognome": "ZEEFUIK",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Marvin",
+  "Cognome": "ZEEGELAAR",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "David",
+  "Cognome": "ZIMA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "D",
+  "Nome": "Nadir",
+  "Cognome": "ZORTEA",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Oliver",
+  "Cognome": "ABILDGAARD",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Christian",
+  "Cognome": "ACELLA",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Yacine",
+  "Cognome": "ADLI",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ndary",
+  "Cognome": "ADOPO",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Michel",
+  "Cognome": "AEBISCHER",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Kevin",
+  "Cognome": "AGUDELO",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "AKPRO",
+  "Cognome": "AKPA",
+  "Squadra": "Empoli",
+  "Column6": "Jean-Daniel"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Sofyan",
+  "Cognome": "AMRABAT",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Felipe",
+  "Cognome": "ANDERSON",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Andre'",
+  "Cognome": "ANGUISSA",
+  "Squadra": "Napoli",
+  "Column6": "Zambo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tolgay",
+  "Cognome": "ARSLAN",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Kristoffer",
+  "Cognome": "ASKILDSEN",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Kristjan",
+  "Cognome": "ASLLANI",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Nedim",
+  "Cognome": "BAJRAMI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tiemoue'",
+  "Cognome": "BAKAYOKO",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Tommaso",
+  "Cognome": "BALDANZI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Filippo",
+  "Cognome": "BANDINELLI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Antonin",
+  "Cognome": "BARAK",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Andrea",
+  "Cognome": "BARBERIS",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicolo'",
+  "Cognome": "BARELLA",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Enzo",
+  "Cognome": "BARRENECHEA",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Toma",
+  "Cognome": "BASIC",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Marco",
+  "Cognome": "BENASSI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ismael",
+  "Cognome": "BENNACER",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Alessandro",
+  "Cognome": "BIANCO",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Alexis",
+  "Cognome": "BLIN",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Emil",
+  "Cognome": "BOHINEN",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Giacomo",
+  "Cognome": "BONAVENTURA",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Mehdi",
+  "Cognome": "BOURABIA",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Edoardo",
+  "Cognome": "BOVE",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Marcelo",
+  "Cognome": "BROZOVIC",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Hakan",
+  "Cognome": "CALHANOGLU",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Mady",
+  "Cognome": "CAMARA",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Nicolo'",
+  "Cognome": "CAMBIAGHI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Matteo",
+  "Cognome": "CANCELLIERI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Antonio",
+  "Cognome": "CANDREVA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Michele",
+  "Cognome": "CASTAGNETTI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Gaetano",
+  "Cognome": "CASTROVILLI",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Danilo",
+  "Cognome": "CATALDI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Emil",
+  "Cognome": "CEIDE",
+  "Squadra": "Sassuolo",
+  "Column6": "Konradsen"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Federico",
+  "Cognome": "CHIESA",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tio",
+  "Cognome": "CIPOT",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Patrick",
+  "Cognome": "CIURRIA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Andrea",
+  "Cognome": "COLPANI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Lassana",
+  "Cognome": "COULIBALY",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Bryan",
+  "Cognome": "CRISTANTE",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Domen",
+  "Cognome": "CRNIGOJ",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Michael",
+  "Cognome": "CUISANCE",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Marco",
+  "Cognome": "D'ALESSANDRO",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ebrima",
+  "Cognome": "DARBOE",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "KETELAERE",
+  "Cognome": "DE",
+  "Squadra": "Milan",
+  "Column6": "Charles"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "ROON",
+  "Cognome": "DE",
+  "Squadra": "Atalanta",
+  "Column6": "Marten"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "INNOCENTI",
+  "Cognome": "DEGLI",
+  "Squadra": "Empoli",
+  "Column6": "Duccio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Diego",
+  "Cognome": "DEMME",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "MARIA",
+  "Cognome": "DI",
+  "Squadra": "Juventus",
+  "Column6": "Angel"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Brahim",
+  "Cognome": "DIAZ",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Filip",
+  "Cognome": "DJURICIC",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicolas",
+  "Cognome": "DOMINGUEZ",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ondrej",
+  "Cognome": "DUDA",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Joseph",
+  "Cognome": "DUNCAN",
+  "Squadra": "Fiorentina",
+  "Column6": "Alfred"
+ },
+ {
+  "Ruolo": "TC",
+  "Cognome": "EDERSON",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Albin",
+  "Cognome": "EKDAL",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Eljif",
+  "Cognome": "ELMAS",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Salvatore",
+  "Cognome": "ESPOSITO",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicolo'",
+  "Cognome": "FAGIOLI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Jacopo",
+  "Cognome": "FAZZINI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Lewis",
+  "Cognome": "FERGUSON",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Davide",
+  "Cognome": "FRATTESI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Gianluca",
+  "Cognome": "GAETANO",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Roberto",
+  "Cognome": "GAGLIARDINI",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Pablo",
+  "Cognome": "GALDAMES",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Gvidas",
+  "Cognome": "GINEITIS",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Joan",
+  "Cognome": "GONZALEZ",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Alberto",
+  "Cognome": "GRASSI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicolas",
+  "Cognome": "HAAS",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Abdou",
+  "Cognome": "HARROUI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Thorir",
+  "Cognome": "HELGASON",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Liam",
+  "Cognome": "HENDERSON",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Matheus",
+  "Cognome": "HENRIQUE",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Morten",
+  "Cognome": "HJULMAND",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Ajdin",
+  "Cognome": "HRUSTIC",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ivan",
+  "Cognome": "ILIC",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Samuel",
+  "Cognome": "ILING-JUNIOR",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Emirhan",
+  "Cognome": "ILKHAN",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Grigoris",
+  "Cognome": "KASTANOS",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Teun",
+  "Cognome": "KOOPMEINERS",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Filip",
+  "Cognome": "KOSTIC",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Viktor",
+  "Cognome": "KOVALENKO",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Rade",
+  "Cognome": "KRUNIC",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Darko",
+  "Cognome": "LAZOVIC",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Mehdi",
+  "Cognome": "LERIS",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Karol",
+  "Cognome": "LINETTY",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Stanislav",
+  "Cognome": "LOBOTKA",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Manuel",
+  "Cognome": "LOCATELLI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Maxime",
+  "Cognome": "LOPEZ",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Sandi",
+  "Cognome": "LOVRIC",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "ALBERTO",
+  "Cognome": "LUIS",
+  "Squadra": "Lazio",
+  "Column6": "Romero",
+  "Column7": "Alconchel"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Jose'",
+  "Cognome": "MACHIN",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Giulio",
+  "Cognome": "MAGGIORE",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Lorenzo",
+  "Cognome": "MALAGRIDA",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Daniel",
+  "Cognome": "MALDINI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Youssef",
+  "Cognome": "MALEH",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Rolando",
+  "Cognome": "MANDRAGORA",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "ANTONIO",
+  "Cognome": "MARCOS",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Razvan",
+  "Cognome": "MARIN",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nemanja",
+  "Cognome": "MATIC",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Soualiho",
+  "Cognome": "MEITE",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Junior",
+  "Cognome": "MESSIAS",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Sergej",
+  "Cognome": "MILINKOVIC-SAVIC",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Fabio",
+  "Cognome": "MIRETTI",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Henrikh",
+  "Cognome": "MKHITARYAN",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nikola",
+  "Cognome": "MORO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tanguy",
+  "Cognome": "NDOMBELE",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "CAVIGLIA",
+  "Cognome": "NICOLUSSI",
+  "Squadra": "Salernitana",
+  "Column6": "Hans"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Pedro",
+  "Cognome": "OBIANG",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Remi",
+  "Cognome": "OUDIN",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Simone",
+  "Cognome": "PAFUNDI",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Martin",
+  "Cognome": "PALUMBO",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Flavio",
+  "Cognome": "PAOLETTI",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Leandro",
+  "Cognome": "PAREDES",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Mario",
+  "Cognome": "PASALIC",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Lorenzo",
+  "Cognome": "PELLEGRINI",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Roberto",
+  "Cognome": "PEREYRA",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Matteo",
+  "Cognome": "PESSINA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Charles",
+  "Cognome": "PICKEL",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tommaso",
+  "Cognome": "POBEGA",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Paul",
+  "Cognome": "POGBA",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Niklas",
+  "Cognome": "PYYHTIA",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Adrien",
+  "Cognome": "RABIOT",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nemanja",
+  "Cognome": "RADONJIC",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Filippo",
+  "Cognome": "RANOCCHIA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Samuele",
+  "Cognome": "RICCI",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tomas",
+  "Cognome": "RINCON",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Luka",
+  "Cognome": "ROMERO",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicolo",
+  "Cognome": "ROVELLA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Abdelhamid",
+  "Cognome": "SABIRI",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Alexis",
+  "Cognome": "SAELEMAEKERS",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Jacopo",
+  "Cognome": "SALA",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Lazar",
+  "Cognome": "SAMARDZIC",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Daniel",
+  "Cognome": "SAMEK",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Riccardo",
+  "Cognome": "SAPONARA",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Jerdy",
+  "Cognome": "SCHOUTEN",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Stefano",
+  "Cognome": "SENSI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Roberto",
+  "Cognome": "SORIANO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Matias",
+  "Cognome": "SOULE'",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Gabriel",
+  "Cognome": "STREFEZZA",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ibrahim",
+  "Cognome": "SULEMANA",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Benjamin",
+  "Cognome": "TAHIROVIC",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Adrien",
+  "Cognome": "TAMEZE",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Filippo",
+  "Cognome": "TERRACCIANO",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Kristian",
+  "Cognome": "THORSTVEDT",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Sandro",
+  "Cognome": "TONALI",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Kacper",
+  "Cognome": "URBANSKI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Mattia",
+  "Cognome": "VALOTI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Matias",
+  "Cognome": "VECINO",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Miguel",
+  "Cognome": "VELOSO",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Ronaldo",
+  "Cognome": "VIEIRA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Emanuel",
+  "Cognome": "VIGNATO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Samuele",
+  "Cognome": "VIGNATO",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Tonny",
+  "Cognome": "VILHENA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Cristian",
+  "Cognome": "VOLPATO",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Aster",
+  "Cognome": "VRANCKX",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "C",
+  "Cognome": "WALACE",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Georginio",
+  "Cognome": "WIJNALDUM",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Harry",
+  "Cognome": "WINKS",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "LAUT",
+  "Cognome": "YEPES",
+  "Squadra": "Sampdoria",
+  "Column6": "Gerard"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Mattia",
+  "Cognome": "ZACCAGNI",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Nicola",
+  "Cognome": "ZALEWSKI",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Alessio",
+  "Cognome": "ZERBIN",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "TC",
+  "Nome": "Piotor",
+  "Cognome": "ZIELINSKI",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "C",
+  "Nome": "Szymon",
+  "Cognome": "ZURKOWSKI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Tammy",
+  "Cognome": "ABRAHAM",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Agustin",
+  "Cognome": "ALVAREZ",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Marko",
+  "Cognome": "ARNAUTOVIC",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Lameck",
+  "Cognome": "BANDA",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Musa",
+  "Cognome": "BARROW",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Andrea",
+  "Cognome": "BELOTTI",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Domenico",
+  "Cognome": "BERARDI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "A",
+  "Cognome": "BETO",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Jeremie",
+  "Cognome": "BOGA",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Federico",
+  "Cognome": "BONAZZOLI",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Erik",
+  "Cognome": "BOTHEIM",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Jayden",
+  "Cognome": "BRAAF",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Josip",
+  "Cognome": "BREKALO",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Cristian",
+  "Cognome": "BUONAIUTO",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Arthur",
+  "Cognome": "CABRAL",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Gianluca",
+  "Cognome": "CAPRARI",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Francesco",
+  "Cognome": "CAPUTO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Valentin",
+  "Cognome": "CARBONI",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Assan",
+  "Cognome": "CEESAY",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Daniel",
+  "Cognome": "CIOFANI",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Lorenzo",
+  "Cognome": "COLOMBO",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Joaquin",
+  "Cognome": "CORREA",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "GRACA",
+  "Cognome": "DA",
+  "Squadra": "Juventus",
+  "Column6": "Cosimo",
+  "Column7": "Marco"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Luca",
+  "Cognome": "D'ANDREA",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "MOTA",
+  "Cognome": "DANY",
+  "Squadra": "Monza",
+  "Column6": "Mota",
+  "Column7": "Carvalho"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "LUCA",
+  "Cognome": "DE",
+  "Squadra": "Sampdoria",
+  "Column6": "Manuel"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Gregoire",
+  "Cognome": "DEFREL",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Cyriel",
+  "Cognome": "DESSERS",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Mattia",
+  "Cognome": "DESTRO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Gerard",
+  "Cognome": "DEULOFEU",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "FRANCESCO",
+  "Cognome": "DI",
+  "Squadra": "Lecce",
+  "Column6": "Federico"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Boulaye",
+  "Cognome": "DIA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Milan",
+  "Cognome": "DJURIC",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Paulo",
+  "Cognome": "DYBALA",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Edin",
+  "Cognome": "DZEKO",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "SHAARAWY",
+  "Cognome": "EL",
+  "Squadra": "Roma",
+  "Column6": "Stephan"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Afena",
+  "Cognome": "FELIX",
+  "Squadra": "Cremonese",
+  "Column6": "Gyan"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Manolo",
+  "Cognome": "GABBIADINI",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Adolfo",
+  "Cognome": "GAICH",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Olivier",
+  "Cognome": "GIROUD",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Nicolas",
+  "Cognome": "GONZALEZ",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Emmanuel",
+  "Cognome": "GYASI",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Christian",
+  "Cognome": "GYTKJAER",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Thomas",
+  "Cognome": "HENRY",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Nabian",
+  "Cognome": "HERCULANO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Rasmus",
+  "Cognome": "HOJLUND",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Zlatan",
+  "Cognome": "IBRAHIMOVIC",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Jonathan",
+  "Cognome": "IKONE'",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Ciro",
+  "Cognome": "IMMOBILE",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Rodriguez",
+  "Cognome": "JESE",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Luka",
+  "Cognome": "JOVIC",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "JORGE",
+  "Cognome": "KAIO",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Yayah",
+  "Cognome": "KALLON",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Yann",
+  "Cognome": "KARAMOH",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Moise",
+  "Cognome": "KEAN",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Christian",
+  "Cognome": "KOUAME'",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Raimonds",
+  "Cognome": "KROLLIS",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Khvicha",
+  "Cognome": "KVARATSKHELIA",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Sam",
+  "Cognome": "LAMMERS",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Kevin",
+  "Cognome": "LASAGNA",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Armand",
+  "Cognome": "LAURIENTE",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Rafael",
+  "Cognome": "LEAO",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Ademola",
+  "Cognome": "LOOKMAN",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Hirving",
+  "Cognome": "LOZANO",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Romelu",
+  "Cognome": "LUKAKU",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Jordan",
+  "Cognome": "MAJCHRZAK",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Mirko",
+  "Cognome": "MARIC",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Lautaro",
+  "Cognome": "MARTINEZ",
+  "Squadra": "Inter"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Arkadiusz",
+  "Cognome": "MILIK",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Aleksey",
+  "Cognome": "MIRANCHUK",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Daniele",
+  "Cognome": "MONTEVAGO",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Luis",
+  "Cognome": "MURIEL",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Ilija",
+  "Cognome": "NESTOROVSKI",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Cyril",
+  "Cognome": "NGONGE",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "M'Bala",
+  "Cognome": "NZOLA",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "David",
+  "Cognome": "OKEREKE",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Divock",
+  "Cognome": "ORIGI",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Riccardo",
+  "Cognome": "ORSOLINI",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Victor",
+  "Cognome": "OSIMHEN",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Cognome": "PEDRO",
+  "Squadra": "Lazio"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Pietro",
+  "Cognome": "PELLEGRI",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Andrea",
+  "Cognome": "PETAGNA",
+  "Squadra": "Monza"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Krzysztof",
+  "Cognome": "PIATEK",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Roberto",
+  "Cognome": "PICCOLI",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Andrea",
+  "Cognome": "PINAMONTI",
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Marko",
+  "Cognome": "PJACA",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Matteo",
+  "Cognome": "POLITANO",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Ignacio",
+  "Cognome": "PUSSETTO",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Fabio",
+  "Cognome": "QUAGLIARELLA",
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Antonio",
+  "Cognome": "RAIMONDO",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Giacomo",
+  "Cognome": "RASPADORI",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Ante",
+  "Cognome": "REBIC",
+  "Squadra": "Milan"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Antonio",
+  "Cognome": "SANABRIA",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Nicola",
+  "Cognome": "SANSONE",
+  "Squadra": "Bologna"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Martin",
+  "Cognome": "SATRIANO",
+  "Squadra": "Empoli"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Demba",
+  "Cognome": "SECK",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Eldor",
+  "Cognome": "SHOMURODOV",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Giovanni",
+  "Cognome": "SIMEONE",
+  "Squadra": "Napoli"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Ola",
+  "Cognome": "SOLBAKKEN",
+  "Squadra": "Roma"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Riccardo",
+  "Cognome": "SOTTIL",
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Isaac",
+  "Cognome": "SUCCESS",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Florian",
+  "Cognome": "THAUVIN",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Frank",
+  "Cognome": "TSADJOUT",
+  "Squadra": "Cremonese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Diego",
+  "Cognome": "VALENCIA",
+  "Squadra": "Salernitana"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Daniele",
+  "Cognome": "VERDE",
+  "Squadra": "Spezia"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Simone",
+  "Cognome": "VERDI",
+  "Squadra": "Verona"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Semedo",
+  "Cognome": "VIVALDO",
+  "Squadra": "Udinese"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Dusan",
+  "Cognome": "VLAHOVIC",
+  "Squadra": "Juventus"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Nikola",
+  "Cognome": "VLASIC",
+  "Squadra": "Torino"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Joel",
+  "Cognome": "VOELKERLING",
+  "Squadra": "Lecce"
+ },
+ {
+  "Ruolo": "TA",
+  "Nome": "Lukas",
+  "Cognome": "VORLICKY",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Duvan",
+  "Cognome": "ZAPATA",
+  "Squadra": "Atalanta"
+ },
+ {
+  "Ruolo": "A",
+  "Nome": "Joshua",
+  "Cognome": "ZIRKZEE",
+  "Squadra": "Bologna"
+ }
+]

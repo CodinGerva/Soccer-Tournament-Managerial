@@ -1,0 +1,162 @@
+[
+ {
+  "Nome": "Dejan",
+  "Cognome": "Stanković",
+  "Giorno": 6,
+  "Mese": 10,
+  "Anno": 2022,
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Nome": "Davide",
+  "Cognome": "Ballardini",
+  "Giorno": 15,
+  "Mese": 1,
+  "Anno": 2023,
+  "Squadra": "Cremonese"
+ },
+ {
+  "Nome": "Marco",
+  "Cognome": "Zaffaroni",
+  "Giorno": 14,
+  "Mese": 6,
+  "Anno": 2022,
+  "Squadra": "Verona"
+ },
+ {
+  "Nome": "Leonardo",
+  "Cognome": "Semplici",
+  "Giorno": 23,
+  "Mese": 2,
+  "Anno": 2023,
+  "Squadra": "Spezia"
+ },
+ {
+  "Nome": "Marco",
+  "Cognome": "Baroni",
+  "Giorno": 31,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Lecce"
+ },
+ {
+  "Nome": "Davide",
+  "Cognome": "Nicola",
+  "Giorno": 15,
+  "Mese": 2,
+  "Anno": 2022,
+  "Squadra": "Salernitana"
+ },
+ {
+  "Nome": "Aurelio",
+  "Cognome": "Andreazzoli",
+  "Giorno": 21,
+  "Mese": 6,
+  "Anno": 2021,
+  "Squadra": "Empoli"
+ },
+ {
+  "Nome": "Giovanni",
+  "Cognome": "Stroppa",
+  "Giorno": 28,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Monza"
+ },
+ {
+  "Nome": "Andrea",
+  "Cognome": "Sottil",
+  "Giorno": 7,
+  "Mese": 6,
+  "Anno": 2022,
+  "Squadra": "Udinese"
+ },
+ {
+  "Nome": "Ivan",
+  "Cognome": "Juric",
+  "Giorno": 28,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Torino"
+ },
+ {
+  "Nome": "Roberto",
+  "Cognome": "De Zerbi",
+  "Giorno": 13,
+  "Mese": 6,
+  "Anno": 2018,
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Nome": "Vincenzo",
+  "Cognome": "Italiano",
+  "Giorno": 1,
+  "Mese": 7,
+  "Anno": 2021,
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Nome": "Thiago",
+  "Cognome": "Motta",
+  "Giorno": 12,
+  "Mese": 10,
+  "Anno": 2022,
+  "Squadra": "Bologna"
+ },
+ {
+  "Nome": "Massimiliano",
+  "Cognome": "Allegri",
+  "Giorno": 16,
+  "Mese": 7,
+  "Anno": 2014,
+  "Squadra": "Juventus"
+ },
+ {
+  "Nome": "Gian Piero",
+  "Cognome": "Gasperini",
+  "Giorno": 7,
+  "Mese": 6,
+  "Anno": 2022,
+  "Squadra": "Atalanta"
+ },
+ {
+  "Nome": "Simone",
+  "Cognome": "Inzaghi",
+  "Giorno": 3,
+  "Mese": 6,
+  "Anno": 2021,
+  "Squadra": "Inter"
+ },
+ {
+  "Nome": "Stefano",
+  "Cognome": "Pioli",
+  "Giorno": 9,
+  "Mese": 10,
+  "Anno": 2019,
+  "Squadra": "Milan"
+ },
+ {
+  "Nome": "José",
+  "Cognome": "Mourinho",
+  "Giorno": 4,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Roma"
+ },
+ {
+  "Nome": "Maurizio",
+  "Cognome": "Sarri",
+  "Giorno": 9,
+  "Mese": 6,
+  "Anno": 2021,
+  "Squadra": "Lazio"
+ },
+ {
+  "Nome": "Luciano",
+  "Cognome": "Spalletti",
+  "Giorno": 28,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Napoli"
+ }
+]

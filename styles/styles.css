@@ -1,0 +1,888 @@
+/* GERVASONI */
+
+*{
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+table{
+    border: 1px solid black;
+}
+
+#menuLaterale{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+    color: white;
+    position: relative;
+    height: 100vh;
+    width: 20%;
+    flex-flow: column;
+    background-color:rgb(55, 61, 100);
+    
+}
+
+.cardGiocatorSingoloSelezione{
+    border: 4px solid white;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0.5;
+}
+.cardGiocatorSingoloSelezione:hover{
+    opacity: 1;
+    content: "+";
+    font-size: 50px;
+    cursor: pointer;
+}
+
+.bottoneLaterale{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 2vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+
+.bottoneLaterale>i{
+    font-size: 28px;
+}
+
+#tornaSquadre{
+    font-size: 50px;
+}
+
+.bottoneLaterale::before  {
+    background: url(GestioneSquadre.png) no-repeat;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.bottoneLaterale:hover{
+    background-color: rgb(130, 154, 199);
+    cursor:pointer;
+}
+
+.bottonePremuto{
+    background-color: rgb(23, 97, 233);
+}
+
+#content{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+#schermataPrincipaleBenvenuto{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 96vh;
+    background-color: rgb(39, 38, 59);
+    align-items: center;
+    text-align: center;
+    border-radius: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-right: 2vh;
+    animation: caricaSchermata;
+    animation-duration: 1s;
+}
+
+#schermataPrincipale{
+    width: 100%;
+    height: 96vh;
+    background-color: rgb(39, 38, 59);
+    text-align: center;
+    border-radius: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-right: 2vh;
+    animation: caricaSchermata;
+    animation-duration: 1s;
+}
+
+@keyframes caricaSchermata{
+    from {width: 0%; height: 0vh;}
+    to {width: 100%; height: 96vh;}
+  }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+body{
+    background-color:rgb(55, 61, 100);
+}
+
+p{
+    font-size: 36px;
+}
+
+#grigliaSquadre{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    overflow-y: auto;
+    grid-template-rows: 25% 25% 25% 25%;
+    justify-items: stretch;
+    align-items: stretch;
+    height: 82vh;
+}
+
+.cardSquadraSingola>p{
+    font-size: 2px;
+}
+
+.cardSquadraSingola{
+    height: 20vh;
+    border-radius: 10px 10px 10px 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardSquadraSingola>div>img{
+    animation: caricaCards;
+    animation-duration: 1s;
+    object-fit:scale-down;
+}
+
+.cardSquadraSingola>div>img:hover{
+    cursor: pointer;
+}
+
+@keyframes caricaCards{
+    from {
+      transform: rotateY(0deg);
+    }
+    to {
+      transform: rotateY(359deg);
+    }
+  }
+
+#containerModificaElimina{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+#containerModificaElimina>div{
+    border: 1px solid white;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    padding: 5px;
+}
+
+
+#formAggiungiSquadra{
+    height: 14%;
+    border-top: 4px solid white;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+label{
+    margin: 20px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+input[type="text"]{
+    border: 0px;
+    background-color: rgb(39, 38, 59);
+    color: white;
+    border-bottom: 3px solid white;
+}
+
+input[type="text"]:focus {
+    border: 0px;
+    outline-width: 0;
+    background-color: rgb(39, 38, 59);
+    color: white;;
+    border-bottom: 3px solid white;
+    caret-color: transparent;
+    transition: border-bottom 0.5s;
+}
+
+#invioSquadra{
+    border: 0px;
+    width: 15vh;
+    background-color: rgb(67, 57, 247);
+    padding: 7px;
+    border-radius: 7px 7px 7px 7px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#invioSquadra:hover{
+    cursor: pointer;
+    background-color: rgb(102, 94, 253);
+}
+
+#headerSquadraSingola{
+    border-bottom: 4px solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#titoloSquadra>p{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.none{
+    display: none;
+}
+
+#pulsanteCompraGiocatore{
+    background-color: rgb(67, 57, 247);
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#pulsanteCompraGiocatore:hover{
+    cursor: pointer;
+    background-color: rgb(102, 94, 253);
+}
+
+#pulsanteConvocaGiocatore:hover{
+    cursor: pointer;
+    background-color: rgb(102, 94, 253);
+}
+
+#pulsanteConvocaGiocatore{
+    background-color: rgb(67, 57, 247);
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#grigliaGiocatori{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    justify-items: stretch;
+    align-items: stretch;
+    height: 80vh;
+    height:66vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    align-items: end;
+}
+
+.cardGiocatorSingolo{
+    padding-top: 40px;
+}
+
+::-webkit-scrollbar {
+    margin-right: 10px;
+    width: 15px;
+  }
+
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(63, 113, 206);
+    border-radius: 10px;
+  }
+
+#immagineGiocatore>img{
+    height: 50px;
+    width: 50px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+
+.etichettaFooterSquadra{
+    font-weight: 500;
+    font-size: larger;
+    text-transform: uppercase;
+    border-radius: 10px 10px 10px 10px;
+    background-color:#403e79;
+}
+
+
+#pulsanteCompraGiocatore{
+    color: black;
+}
+
+#footerModificaSquadra{
+    height: 23vh;
+    border-top: 4px solid white;
+    align-items: center;
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    position: sticky;
+    top: 0;
+}
+
+#cardFooterModificaSquadra, #immagineAllenatore, #visualizzaDirigenteSquadra{
+    padding: 10px;
+    background-color:#65648d;
+    border-radius: 10px;
+}
+
+#footerModificaSquadra>div>i{
+    font-size: 5vh;
+}
+
+#tornaSquadre:hover{
+    cursor: pointer;
+}
+
+.tastoFooterSquadra{
+    font-weight: 500;
+    font-size: larger;
+    text-transform: uppercase;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(67, 57, 247);
+}
+
+#tastoCambiaAllenatore{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#containerCambiaAllenatore{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#containerCambiaAllenatore:hover{
+    cursor: pointer;
+}
+
+
+#cambiaAllenatoreButton{
+    background-color: rgb(67, 57, 247);
+    border-radius: 5px 5px 5px 5px;
+    width:10vh;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#cambiaMinus{
+    background-color: rgb(67, 57, 247);
+    border-radius: 5px 5px 5px 5px;
+    width: 6vh;
+}
+
+#cambiaPlus{
+    background-color: rgb(67, 57, 247);
+    border-radius: 5px 5px 5px 5px;
+    width: 6vh;
+}
+
+.tastoFooterSquadra:hover{
+    cursor: pointer;
+    background-color: rgb(102, 94, 253);
+}
+
+.dorato{
+   letter-spacing: 5px;
+   font-size: 25px;
+   font-weight: bolder;
+   background-image: linear-gradient(
+	to right,
+	#cb9b51 0,
+    #cb9b51 22%, 
+	#f6e27a 45%,
+	#f6f2c0 50%,
+	#f6e27a 55%,
+	#cb9b51 78%,
+	#cb9b51 100%
+	);
+   color:transparent;
+   -webkit-background-clip:text;
+
+}
+
+#formAggiungiArbitro{
+    height: 15%;
+    border-top: 4px solid white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#invioarbitro{
+    border: 0px;
+    width: 15vh;
+    background-color: rgb(67, 57, 247);
+    padding: 7px;
+    border-radius: 7px 7px 7px 7px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#invioarbitro:hover{
+    cursor: pointer;
+    background-color: rgb(102, 94, 253);
+}
+
+#eliminaGiocatore{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-evenly;
+    margin: auto;
+    width: 60%;
+    border: 2px solid white;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+}
+
+#eliminaGiocatore>p{
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+#eliminaGiocatore:hover{
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+/* CALENDARIO */
+#scorriGiornate{
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#scorriGiornate>p{
+    background-color:#65648d;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+#giornataPrecedente, #giornataSuccessiva{
+    background-color: #403e79;
+    border-radius: 10px;
+    font-size: 48px;
+}
+
+#giornataPrecedente:hover, #giornataSuccessiva:hover{
+    background-color: #65648d;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 48px;
+}
+
+#giornata{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+    flex-direction: column;
+    grid-gap: 50px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#arbitroDesignato{
+    max-height: 500px;
+    border-radius: 5px;
+    background-color: #dde5ff;
+    color: #4a4877;
+}
+
+#designa{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    background-color: rgb(67, 57, 247);
+    border: none;
+    border-radius: 15px;
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+#designa:hover{
+    cursor: pointer;
+    background-color: rgb(78, 70, 245) ;
+}
+
+#centra>img{
+    background-color: #5c6eab;
+    width: 40%;
+    border-radius: 15px;
+}
+
+#centra{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 25px;
+    top: 50%;
+    background-color: #849cec;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 15px;
+    gap: 25px;
+}
+
+#centra>h2{
+    font-size: 50px;
+}
+
+option{
+    color: #403e79;
+}
+
+#risultato{
+    background-color:#403e79;
+    width: 60%;
+    margin: 0 auto;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+
+#risultato:hover{
+    cursor: pointer;
+    background-color:#4a4877;
+}
+
+#scontroSquadre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    border-radius: 15px;
+    background-color:#484576;
+}
+
+#scudettoSquadraSingola>img{
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
+
+#containerDesigna{
+    border-radius: 15px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:#39456a;
+}
+
+#tipo, #squadra{
+    text-transform: uppercase;
+    font-weight: 600;
+    color:#39456a;
+}
+
+#addGol{
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    background-color: rgb(85, 80, 192);
+    border: none;
+    border-radius: 15px;
+    width: 30%;
+    padding: 20px;
+    margin: 25px;
+}
+
+#containerTotDesigna{
+    padding-top: 25px;
+    margin: 10% auto;
+    height: max-content;
+    background-color:#253050;
+    border-radius: 15px;
+    width: 80%;
+}
+
+#addGol:hover{
+    cursor: pointer;
+    background-color: rgb(92, 87, 185) ;
+}
+
+#inputTextRisultato{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+}
+
+#marcatore, #minuto{
+    background-color: #5c6eab;
+    height: 50%;
+    top: 0%;
+}
+
+#registra{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #ffffff;
+    background-color: rgb(67, 57, 247);
+    border: none;
+    border-radius: 15px;
+    width: 20%;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+#registra:hover{
+    cursor: pointer;
+    background-color: rgb(78, 70, 245) ;
+}
+
+#formRisultato{
+    border-radius: 15px;
+    margin: 20px auto;
+    width: 80%;
+    background-color:#5c6eab;
+}
+
+#containerDesigna>h1{
+    font-size: 50px;
+}
+
+#immagineDesigna>img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+
+
+/* PAGINA BENVENUTO */
+
+#grigliaBenvenuto{
+    height: 95%;
+    width: 95%;
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 1fr;
+    grid-template-rows: 2fr 2fr 0.5fr;
+    gap: 15px;
+}
+
+.contenuto{
+    height: 100%;
+    width: 100%;
+}
+
+.classifica{
+    grid-row: span 3;
+    border-radius: 15px;
+    overflow-y: auto;
+    cursor: cell;
+}
+
+.infoSquadraVincente{
+    display: flex;
+    flex-direction: column;
+    grid-row: span 2;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: #403e79;
+    border-radius: 15px;
+}
+
+.dataFine{
+    background-color: #403e79;
+    border-radius: 15px;
+    grid-column: span 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dataFine>span{
+    font-weight: 600;
+    font-size: 46px;
+    text-transform: uppercase;
+}
+
+#fine{
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+#mvpSquadraVincente, #squadraVincente{
+    width: 92.5%;
+    height: 47.5%;
+    background-color: #625fa5;
+    border-radius: 15px;
+}
+
+#squadraVincente>img, #mvpSquadraVincente>img{
+    width: 120px;
+    height: 120px;
+}
+
+#squadraVincente>p{
+    text-transform: uppercase;
+    font-size: 48px;
+}
+
+#squadraVincente, #mvpSquadraVincente{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#infoSquadraVincente{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.fatturatoTot{
+    border-radius: 15px;
+}
+
+.spettatoriCampionato{
+    border-radius: 15px;
+}
+
+.classifica>table{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    border-radius: 15px;
+}
+
+
+
+tbody,thead{
+    border-radius: 15px;
+}
+
+tr,td,th,tbody,thead{
+    color: rgb(55, 61, 100);
+    font-weight: 600;
+    font-size: 32px;
+}
+
+th{
+    color: white;
+}
+
+thead{
+    position: sticky;
+    top: -1px;
+    width: 100%;
+    height: 100px;
+    background-color: #403e79;
+}
+
+.classifica tbody tr:nth-child(even){
+    background-color: #dde5ff
+}
+
+.classifica tbody tr:nth-child(odd){
+    background-color: #c1ceff
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgb(39, 38, 59);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #403e79;
+  border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #524f9b;
+}
+
+.spettatoriCampionato{
+    background-color: #524f9b;
+    display: flex;
+    flex-direction: column;
+}
+
+.spettatoriCampionato>img{
+    width: 100%;
+    height: 180px;
+}
+
+.spettatoriCampionato>i{
+    font-size: 50px;
+}
+
+.fatturatoTot{
+    background-color: #524f9b;
+}
+
+.fatturatoTot>img{
+    width: 280px;
+    height: 180px;
+}
+
+.fatturatoTot>i{
+    font-size: 50px;
+}
+

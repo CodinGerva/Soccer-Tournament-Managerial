@@ -1,0 +1,122 @@
+[
+ {
+  "Nome": "Sampdoria",
+  "Citta": "Genova",
+  "Stadio": "Luigi Ferraris",
+  "Logo": "Media/sampdoria.png"
+ },
+ {
+  "Nome": "Cremonese",
+  "Citta": "Cremona",
+  "Stadio": "Giovanni Zini",
+  "Logo": "Media/cremonese.png"
+ },
+ {
+  "Nome": "Verona",
+  "Citta": "Verona",
+  "Stadio": "Marcantonio Bentegodi",
+  "Logo": "Media/hellas-verona.png"
+ },
+ {
+  "Nome": "Spezia",
+  "Citta": "La Spezia",
+  "Stadio": "Alberto Picco",
+  "Logo": "Media/spezia.png"
+ },
+ {
+  "Nome": "Lecce",
+  "Citta": "Lecce",
+  "Stadio": "Ettore Giardiniero",
+  "Logo": "Media/lecce.png"
+ },
+ {
+  "Nome": "Salernitana",
+  "Citta": "Salerno",
+  "Stadio": "Arechi",
+  "Logo": "Media/salernitana.png"
+ },
+ {
+  "Nome": "Empoli",
+  "Citta": "Empoli",
+  "Stadio": "Carlo Castellani",
+  "Logo": "Media/empoli.png"
+ },
+ {
+  "Nome": "Monza",
+  "Citta": "Monza",
+  "Stadio": "Brianteo",
+  "Logo": "Media/monza.png"
+ },
+ {
+  "Nome": "Udinese",
+  "Citta": "Udine",
+  "Stadio": "Dacia Arena",
+  "Logo": "Media/udinese.png"
+ },
+ {
+  "Nome": "Torino",
+  "Citta": "Torino",
+  "Stadio": "Olimpico Grande Torino",
+  "Logo": "Media/torino.png"
+ },
+ {
+  "Nome": "Sassuolo",
+  "Citta": "Reggio Emilia",
+  "Stadio": "Mapei Stadium",
+  "Logo": "Media/sassuolo.png"
+ },
+ {
+  "Nome": "Fiorentina",
+  "Citta": "Firenze",
+  "Stadio": "Artemio Franchi",
+  "Logo": "Media/fiorentina.png"
+ },
+ {
+  "Nome": "Bologna",
+  "Citta": "Bologna",
+  "Stadio": "Renato Dall'Ara",
+  "Logo": "Media/bologna.png"
+ },
+ {
+  "Nome": "Juventus",
+  "Citta": "Torino",
+  "Stadio": "Allianz Stadium",
+  "Logo": "Media/juventus.png"
+ },
+ {
+  "Nome": "Atalanta",
+  "Citta": "Bergamo",
+  "Stadio": "Gewiss Stadium",
+  "Logo": "Media/atalanta.png"
+ },
+ {
+  "Nome": "Inter",
+  "Citta": "Milano",
+  "Stadio": "San Siro(Meazza)",
+  "Logo": "Media/inter.png"
+ },
+ {
+  "Nome": "Milan",
+  "Citta": "Milano",
+  "Stadio": "San Siro(Meazza)",
+  "Logo": "Media/milan.png"
+ },
+ {
+  "Nome": "Roma",
+  "Citta": "Roma",
+  "Stadio": "Olimpico",
+  "Logo": "Media/roma.png"
+ },
+ {
+  "Nome": "Lazio",
+  "Citta": "Lazio",
+  "Stadio": "Olimpico",
+  "Logo": "Media/lazio.png"
+ },
+ {
+  "Nome": "Napoli",
+  "Citta": "Napoli",
+  "Stadio": "Maradona Stadium",
+  "Logo": "Media/napoli.png"
+ }
+]

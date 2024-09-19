@@ -1,0 +1,162 @@
+[
+ {
+  "Nome": "Marco",
+  "Cognome": "Lanna",
+  "Giorno": 6,
+  "Mese": 3,
+  "Anno": 2023,
+  "Squadra": "Sampdoria"
+ },
+ {
+  "Nome": "Giovanni",
+  "Cognome": "Arvedi",
+  "Giorno": 28,
+  "Mese": 8,
+  "Anno": 2007,
+  "Squadra": "Cremonese"
+ },
+ {
+  "Nome": "Maurizio",
+  "Cognome": "Setti",
+  "Giorno": 13,
+  "Mese": 5,
+  "Anno": 2021,
+  "Squadra": "Verona"
+ },
+ {
+  "Nome": "Philip",
+  "Cognome": "Platek",
+  "Giorno": 15,
+  "Mese": 2,
+  "Anno": 2021,
+  "Squadra": "Spezia"
+ },
+ {
+  "Nome": "Saverio",
+  "Cognome": "Sticchi Damiani",
+  "Giorno": 15,
+  "Mese": 12,
+  "Anno": 2017,
+  "Squadra": "Lecce"
+ },
+ {
+  "Nome": "Danilo",
+  "Cognome": "Lervolino",
+  "Giorno": 1,
+  "Mese": 1,
+  "Anno": 2022,
+  "Squadra": "Salernitana"
+ },
+ {
+  "Nome": "Fabrizio",
+  "Cognome": "Corsi",
+  "Giorno": 7,
+  "Mese": 3,
+  "Anno": 2017,
+  "Squadra": "Empoli"
+ },
+ {
+  "Nome": "Paolo",
+  "Cognome": "Berlusconi",
+  "Giorno": 7,
+  "Mese": 7,
+  "Anno": 2022,
+  "Squadra": "Monza"
+ },
+ {
+  "Nome": "Franco",
+  "Cognome": "Soldati",
+  "Giorno": 30,
+  "Mese": 10,
+  "Anno": 1999,
+  "Squadra": "Udinese"
+ },
+ {
+  "Nome": "Urbano",
+  "Cognome": "Cairo",
+  "Giorno": 9,
+  "Mese": 7,
+  "Anno": 2022,
+  "Squadra": "Torino"
+ },
+ {
+  "Nome": "Carlo",
+  "Cognome": "Rossi",
+  "Giorno": 10,
+  "Mese": 10,
+  "Anno": 2019,
+  "Squadra": "Sassuolo"
+ },
+ {
+  "Nome": "Rocco",
+  "Cognome": "Commisso",
+  "Giorno": 6,
+  "Mese": 6,
+  "Anno": 2019,
+  "Squadra": "Fiorentina"
+ },
+ {
+  "Nome": "Joey",
+  "Cognome": "Saputo",
+  "Giorno": 14,
+  "Mese": 10,
+  "Anno": 2014,
+  "Squadra": "Bologna"
+ },
+ {
+  "Nome": "Gianluca",
+  "Cognome": "Ferrero",
+  "Giorno": 29,
+  "Mese": 12,
+  "Anno": 2022,
+  "Squadra": "Juventus"
+ },
+ {
+  "Nome": "Antonio",
+  "Cognome": "Percassi",
+  "Giorno": 12,
+  "Mese": 4,
+  "Anno": 2022,
+  "Squadra": "Atalanta"
+ },
+ {
+  "Nome": "Steven",
+  "Cognome": "Zhang",
+  "Giorno": 27,
+  "Mese": 10,
+  "Anno": 2018,
+  "Squadra": "Inter"
+ },
+ {
+  "Nome": "Paolo",
+  "Cognome": "Scaroni",
+  "Giorno": 21,
+  "Mese": 7,
+  "Anno": 2018,
+  "Squadra": "Milan"
+ },
+ {
+  "Nome": "Danilo",
+  "Cognome": "Friedkin",
+  "Giorno": 30,
+  "Mese": 12,
+  "Anno": 2019,
+  "Squadra": "Roma"
+ },
+ {
+  "Nome": "Claudio",
+  "Cognome": "Lotito",
+  "Giorno": 10,
+  "Mese": 6,
+  "Anno": 2015,
+  "Squadra": "Lazio"
+ },
+ {
+  "Nome": "Aurelio",
+  "Cognome": "De Laurentis",
+  "Giorno": 6,
+  "Mese": 10,
+  "Anno": 2004,
+  "Squadra": "Napoli"
+ }
+]
